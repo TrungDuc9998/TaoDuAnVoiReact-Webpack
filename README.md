@@ -9,7 +9,7 @@ Link:https://fullstack.edu.vn/blog/phan-1-tao-du-an-reactjs-voi-webpack-va-babel
   <p>-Không cần sử dụng lặp lại nhiều lần link vì npm sẽ xử lý khi được import</p>
   <p>-Có sẵn luôn cả React,ReactDOM,babel,Webpack</p>
   
-  <h2 style="color:red">Tạo dự án với create-react-app
+  <h2 style="color:red">Tạo dự án với create-react-app</h2>
     <p>Ví dụ bài này chúng ta sẽ tạo ra một dự án với tên là tiktok</p>
     <p>-Đầu tiên chúng ta tạo một folder:843535==>reactjs&&setup</p>
     <p>-Kích chuột phải vào folder reactjs chọn git bash here</p>
@@ -45,10 +45,13 @@ Link:https://fullstack.edu.vn/blog/phan-1-tao-du-an-reactjs-voi-webpack-va-babel
     <p>-Tốn dung lượng lưu trữ khi cake</p>
     
     
-    <h2>Hooks là gì</h2>
+    <h2 style="color:red">Hooks là gì</h2>
     <p>-là method ,hàm được viết sẵn ,được cung cấp bởi reactjs,mỗi hàm có mỗi tính năng là các trường hơpk
       cụ thể để chúng ta có thể sử dụng</p>
     <h4>1.useState:trạng thái của dữ liệu,khi dữ liệu thay đổi thì giao
     diện được câoj nhật</h4>
+  
+  <h2  style="color:red">Two-way binding trong React?</h2>
+  
 </div>
 
